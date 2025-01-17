@@ -1,0 +1,12 @@
+{
+  "name": "vprok-parse",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "author": "mAlc_Jke",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.1.0"
+  }
+}
